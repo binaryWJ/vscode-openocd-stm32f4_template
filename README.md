@@ -1,0 +1,1 @@
+# vscode-openocd-stm32f4_template
